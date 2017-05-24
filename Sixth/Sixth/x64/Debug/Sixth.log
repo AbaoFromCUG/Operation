@@ -1,0 +1,18 @@
+﻿  TransferDialog.cpp
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(28): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(29): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(30): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  HomeDialog.cpp
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(28): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(29): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(30): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Sixth.cpp
+  NewUserDialog.cpp
+  SixthDlg.cpp
+  SaveDialog.cpp
+  PaymentDialog.cpp
+  DetailsDialog.cpp
+  Sixth.vcxproj -> C:\Users\Abao\Desktop\2\Sixth - 副本\x64\Debug\Sixth.exe
+  Sixth.vcxproj -> C:\Users\Abao\Desktop\2\Sixth - 副本\x64\Debug\Sixth.pdb (Partial PDB)

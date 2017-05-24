@@ -1,0 +1,8 @@
+﻿  User.cpp
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(28): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(29): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.h(30): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.cpp(33): warning C4305: “=”: 从“int”到“char”截断
+c:\users\abao\desktop\2\sixth - 副本\sixth\user.cpp(33): warning C4309: “=”: 截断常量值
+  Sixth.vcxproj -> C:\Users\Abao\Desktop\2\Sixth - 副本\Debug\Sixth.exe
+  Sixth.vcxproj -> C:\Users\Abao\Desktop\2\Sixth - 副本\Debug\Sixth.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  Rectangle.cpp
+  Polygon.cpp
+  Point.cpp
+  main.cpp
+  Line.cpp
+  Geometry.cpp
+  Collection.cpp
+  Circle.cpp
+  正在生成代码...
+e:\project\operation\fourth\fourth\rectangle.cpp(141): warning C4172: 返回局部变量或临时变量的地址: p
+e:\project\operation\fourth\fourth\rectangle.cpp(66): warning C4172: 返回局部变量或临时变量的地址: l
+  fourth.vcxproj -> E:\project\operation\Fourth\x64\Debug\fourth.exe
+  fourth.vcxproj -> E:\project\operation\Fourth\x64\Debug\fourth.pdb (Partial PDB)
